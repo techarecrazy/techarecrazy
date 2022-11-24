@@ -6,6 +6,10 @@
     color: #ffffff;
 }
 
+#wrapper, button {
+    background: #000000;
+}
+
 body {
     width: 100vw;
     height: 100vh;
@@ -13,5 +17,4 @@ body {
 
 #wrapper {
     width: fit-content;
-    background: #000000;
 }

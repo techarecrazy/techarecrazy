@@ -1,2 +1,1 @@
 # TechAreCrazy
-Moja strona
