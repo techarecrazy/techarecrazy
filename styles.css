@@ -3,16 +3,15 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
-    color: #ffffff;
+    color: #83a31d;
 }
 
 body {
     width: 100vw;
     height: 100vh;
-    margin: auto;
 }
 
 #wrapper {
     background: rgba(0,0,0,.4);
-    width: 50vw;
+    width: fit-content;
 }
