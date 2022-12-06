@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p id="p"></p>
+        <button onclick="f()">text</button>
+        <script>
+            let v = 0
+            function f() {
+                v +=1;
+                document.getElementById("p").innerHTML = `${v}`
+            }
+        </script>
+    </body>
+</html>
